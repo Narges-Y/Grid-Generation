@@ -9,4 +9,4 @@ The O-type grid for a symmetric airfoil with a chord length of 1, the coordinate
 
 ![Fdf2bDt0aYCe45CS6LE7P4UF](https://github.com/user-attachments/assets/6b5c18e7-4130-46c7-83de-5732e417cfe7)
 
-## Using [airfoiltools](airfoiltools).com
+## Using [airfoiltools.com](airfoiltools).com

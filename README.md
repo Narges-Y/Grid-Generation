@@ -13,4 +13,7 @@ The O-type grid for a symmetric airfoil with a chord length of 1, the coordinate
 
 ![eHUPJCP5Y0TKD3TVUFhd5S51](https://github.com/user-attachments/assets/f7842087-dc19-4861-aca1-dc6c753c8a27)
 
-Algebraic Grid Result
+## Algebraic Grid Result
+
+![4_5854752_20241103_143503_5](https://github.com/user-attachments/assets/401f60f6-6386-410c-935e-fa8cffa8b0de)
+![4_5854752_20241103_143503_6](https://github.com/user-attachments/assets/00f19885-9da8-4eac-9539-824acd4fdd67)

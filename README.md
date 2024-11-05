@@ -1,2 +1,2 @@
-# Grid-Generation
+# Grid Generation
 Numerical Grid Generation for Airfoil

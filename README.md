@@ -11,7 +11,7 @@ The O-type grid for a symmetric airfoil with a chord length of 1, the coordinate
 
 ## Using Airfoil Data
 
-Thickness(%) = 12 , Max Camber = 0
+Thickness(%) = 12  ,  Max Camber = 0
 
 $$ y_t = 5t \left( 0.2969 \sqrt{x} - 0.1260 x - 0.3516 x^2 + 0.02843 x^3 - 0.1015 x^4 \right) $$
 

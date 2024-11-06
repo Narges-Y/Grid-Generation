@@ -11,7 +11,7 @@ The O-type grid for a symmetric airfoil with a chord length of 1, the coordinate
 
 ## Using Airfoil Data
 
-![eHUPJCP5Y0TKD3TVUFhd5S51](https://github.com/user-attachments/assets/f7842087-dc19-4861-aca1-dc6c753c8a27)
+Thickness (%) = 12
 
 ## Algebraic Grid Result
 
